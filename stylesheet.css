@@ -1,0 +1,47 @@
+body {font-family: 'Slabo 27px', serif;
+   background-color: whitesmoke;
+       width: 90%;
+    margin: auto;
+}  
+
+body.backgroun{
+    height 40%;
+    background-color: teal;
+    background-size: 50%;}
+
+di {
+  width:500px;
+  border: 1px solid black;
+  padding: 15px;
+  margin: 20px;
+  background-color:floralwhite;
+    
+}
+.title {
+	float: left;
+	width: 25%;
+    color:lightgoldenrodyellow;
+    background-color: teal;
+    font-weight: 900;
+    margin: auto
+}
+
+.content {
+	float: right;
+	width: 70%;
+    
+}
+section  {
+	border-top: 1px solid ;
+	padding: 20px ;
+}
+
+h2 {border-top: 1px solid ;
+	padding: 20px ;}
+
+div.backgroun {    
+  width:300px;
+  background:teal;
+  border: 2px solid #a7a7a7;
+  padding:500px 0;
+}
