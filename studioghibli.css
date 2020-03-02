@@ -1,0 +1,29 @@
+body{
+    width: 80vw;
+        max-width: 900px;
+        margin: auto;
+        padding-top: 1em;
+        padding-bottom: 1.5em;
+        background-image: linear-gradient(rgba(0, 212, 255, 0.8), rgba(64, 59, 0, 0.6)), url(https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Studio_Ghibli_logo.svg/2880px-Studio_Ghibli_logo.svg.png);
+        background-position: center;
+        background-size: cover;
+        background-repeat: repeat-y;
+        background-attachment: fixed;
+        height: 100vh;
+        font-family: 'Pangolin';
+}
+
+
+#result {
+   position: absolute;
+   width: 100%;
+   max-width:870px;
+   cursor: pointer;
+   overflow-y: auto;
+   max-height: 400px;
+   box-sizing: border-box;
+   z-index: 1001;
+  }
+  .link-class:hover{
+   background-color:#f1f1f1;
+  }
